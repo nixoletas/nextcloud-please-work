@@ -1,6 +1,6 @@
 # nextcloud-please-work
 
-```
+``` yaml
 # Either select the MariaDB or Postgres configurations.
 
 # MariaDB hosted on a Docker container.
